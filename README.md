@@ -2,7 +2,6 @@
 
 - 🤖 Desenvolvendo um Robo de Carga
 - 🌱 Aprendendo ESP8266 e ESP32
-- 📫 Email: joaomatheuslt@gmail.com
 
 <div align="center">
   <a href="https://github.com/joaomat1501">
