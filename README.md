@@ -1,5 +1,8 @@
 ### Eae, tudo certo? Me chamo João Matheus 👋
 
+- 🤖 Desenvolvendo um Robo de Carga
+- 🌱 Aprendendo ESP8266 e ESP32
+ 
 <div>
   <a href="https://github.com/joaotazinafo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaotazinafo&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
