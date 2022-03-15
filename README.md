@@ -3,10 +3,10 @@
 - 🤖 Desenvolvendo um Robo de Carga
 - 🌱 Aprendendo ESP8266 e ESP32
 
-<div align="center">
+<div>
  <a href="https://github.com/joaotazinafo">
- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaotazinafo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaotazinafo&layout=compact&langs_count=7&theme=algolia"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaotazinafo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaotazinafo&layout=compact&langs_count=7&theme=algolia"/>
 </div>
   
   <div style="display: inline_block"><br>
