@@ -4,7 +4,7 @@
 - 🌱 Aprendendo ESP8266 e ESP32
 
 <div>
-  <a href="https://github.com/juniortrojilio">
+  <a href="https://github.com/joaotazinafo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaotazinafo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaotazinafo&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
